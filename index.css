@@ -3,17 +3,30 @@ body{
     color: rgb(255, 255, 255);
 
 }
+button{
+    border-color: cyan;
+}
 .b0{
     background-color: black;
     color: white;
     position: relative;
-    height:  1px;
-    width:  30px;
+    width:  10%;
 }
 .b1{
     background-color: black;
     color: white;
     position: relative;
-    height: 1px;
-    width: 90px;
+    width: 10%;
+}
+.b2{
+    background-color: black;
+    color: white;
+    position: relative;
+    width: 10%;
+}
+.b3{
+    background-color: black;
+    color: white;
+    position: relative;
+    width: 10%;
 }
